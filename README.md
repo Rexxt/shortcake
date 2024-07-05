@@ -1,7 +1,7 @@
 # Shortcake
 Autounattend files for Windows 10/11.
 
-**ℹ Only 64-bit Intel/AMD systems are supported.**
+~~**ℹ Only 64-bit Intel/AMD systems are supported.**~~
 
 Shortcake files aim to minimize Microsoft bloatware and system requirements, while enhancing user experience and shipping commonly used software out of the box, further reducing setup times.
 
